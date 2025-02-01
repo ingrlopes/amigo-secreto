@@ -16,7 +16,7 @@ O Aplicativo Amigo Secreto é uma aplicação web simples que permite aos usuár
    ```
 2. Navegue até o diretório do projeto:
    ```
-   cd secret-friend-app
+   cd amigo-secreto
    ```
 3. Instale as dependências (se houver):
    ```
